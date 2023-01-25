@@ -32,8 +32,8 @@ with open('text.txt','r') as f1:
 print("Number of words in the file={}".format(num_words))
 ```
 ### OUTPUT:
-![](./words1.png)
-![](./words2.png)
+![](./w.png)
+![](./w1.png)
 
 
 ## RESULT:
